@@ -42,8 +42,8 @@ Halaman ini terdiri dari beberapa bagian penting seperti header, hero, fitur uta
 
 
 6. **Footer**
-   <img width="1896" height="135" alt="Cuplikan layar 2025-11-10 184338" src="https://github.com/user-attachments/assets/0ea29fd9-b5b9-4924-b360-54aa460689e4" />
-   -  Copyright.
+   <img width="1889" height="125" alt="image" src="https://github.com/user-attachments/assets/abe7491e-4b45-462e-9658-618f424b9605" />
+   - Copyright.
    - Tautan media sosial (Facebook, Instagram, LinkedIn).
 
 

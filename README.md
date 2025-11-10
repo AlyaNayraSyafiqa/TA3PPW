@@ -17,15 +17,18 @@ Halaman ini terdiri dari beberapa bagian penting seperti header, hero, fitur uta
    - Navigasi responsif dengan logo dan menu.
    - Tetap terlihat (sticky) saat halaman di-scroll.
 
+
 2. **Hero Section**
    <img width="1919" height="880" alt="Cuplikan layar 2025-11-10 184250" src="https://github.com/user-attachments/assets/a72c4837-b8eb-4f8b-9ed5-d65eed046037" />
    - Headline besar dengan gradasi warna pink.
    - Subjudul dan tombol CTA “Hubungi Kami”.
 
+
 3. **Features Section**
    <img width="1899" height="885" alt="Cuplikan layar 2025-11-10 184302" src="https://github.com/user-attachments/assets/76da7958-f143-4e20-a03c-927341ac7479" />
    - Tiga fitur utama lengkap dengan ikon dan deskripsi.
    - Tampilan grid responsif.
+
 
 4. **About Section**
    <img width="1885" height="894" alt="Cuplikan layar 2025-11-10 184320" src="https://github.com/user-attachments/assets/28b9519d-97dd-4617-ac94-960809e67b0b" />
@@ -37,10 +40,12 @@ Halaman ini terdiri dari beberapa bagian penting seperti header, hero, fitur uta
    - Formulir kontak dengan input nama, email, dan pesan.
    - Efek fokus dan tombol kirim yang interaktif.
 
+
 6. **Footer**
    <img width="1896" height="135" alt="Cuplikan layar 2025-11-10 184338" src="https://github.com/user-attachments/assets/0ea29fd9-b5b9-4924-b360-54aa460689e4" />
    -  Copyright.
    - Tautan media sosial (Facebook, Instagram, LinkedIn).
+
 
 ## Responsivitas
 - Desain menggunakan sistem grid dan breakpoint Tailwind (`md:`).

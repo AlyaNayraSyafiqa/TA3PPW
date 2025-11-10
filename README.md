@@ -48,5 +48,5 @@ Halaman ini terdiri dari beberapa bagian penting seperti header, hero, fitur uta
 
 
 ## Responsivitas
-- Desain menggunakan sistem grid dan breakpoint Tailwind (`md:`).
+- Desain menggunakan sistem grid dan breakpoint Tailwind.
 - Tampilan menyesuaikan otomatis untuk perangkat mobile, tablet, dan desktop.
